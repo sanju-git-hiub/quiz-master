@@ -1,0 +1,67 @@
+.quizCard {
+  background: #9197ad !important;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+.quizApp {
+  margin-bottom: 1rem;
+}
+.formControl {
+  width: 100%;
+}
+.choiceRadio {
+  flex-direction: row !important;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
+}
+.choiceLabel {
+  width: 48%;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  display: block;
+  background: #3a4363;
+  border-radius: 10px;
+  overflow: hidden;
+  color: #c4c4c4;
+  font-weight: 500;
+}
+.choiceLabel:first-child,
+.choiceLabel:nth-child(2) {
+  margin-bottom: 1rem;
+}
+.qusHead {
+  margin-bottom: 1rem;
+  background: none;
+  display: flex;
+  align-items: center;
+  word-break: break-all;
+}
+.qusHead h3 {
+  font-weight: 600;
+  color: #1b2136;
+  padding-left: 10px;
+}
+.qsNo {
+  background: #3a4363;
+  color: #fff;
+  min-width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 50%;
+}
+.qsNext {
+  margin-top: 1rem !important;
+  display: flex !important;
+  margin-left: auto !important;
+}
+.errorSel {
+  background-color: #f00;
+}
+.correctSel {
+  background-color: green;
+}

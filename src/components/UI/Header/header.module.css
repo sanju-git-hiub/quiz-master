@@ -1,0 +1,33 @@
+.headerComp {
+  background-color: #1d2646;
+  padding: 25px 0;
+  margin-bottom: 2rem;
+}
+.logo {
+  width: 200px;
+  height: 120px;
+  margin: 0 auto;
+}
+form.formHolder {
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+  border-radius: 50px;
+  overflow: hidden;
+}
+.searchInput {
+  height: 45px;
+  line-height: 45px;
+  padding: 0 25px;
+  border-radius: 50px;
+  overflow: hidden;
+  width: 100%;
+}
+.searchIcon {
+  position: absolute !important;
+  right: 0;
+  z-index: 99;
+  padding: 0;
+  height: 100%;
+  width: 50px;
+}

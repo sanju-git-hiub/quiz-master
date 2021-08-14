@@ -1,0 +1,27 @@
+.rankModal {
+  text-align: center;
+}
+.rankModal figure {
+  margin: 0 auto;
+  width: 100px;
+  height: 100px;
+}
+.rankModal h2,
+.rankModal h3,
+.rankModal h6 {
+  margin: 5px auto;
+  text-transform: uppercase;
+}
+.rankModal h2 {
+  color: #4caf50;
+}
+.rankModal h6 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #ccc;
+}
+.rankModal h4 {
+  margin: 0;
+  color: #927777;
+  font-weight: 500;
+}

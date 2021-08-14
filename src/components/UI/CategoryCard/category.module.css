@@ -1,0 +1,19 @@
+.quizCard {
+  cursor: pointer;
+}
+.media {
+  height: 200px;
+}
+.quizCardContent {
+  padding: 10px 15px !important;
+}
+.quizCardContent h2 {
+  margin: 0;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 16px;
+}
+.quizTitle {
+  text-align: center;
+  margin: 0;
+}
